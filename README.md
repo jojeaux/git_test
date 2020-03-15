@@ -1,0 +1,1 @@
+This is Jojo's first git project!
